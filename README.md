@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @markallenpark
+- 👀 I’m interested in computer engineering
+- 🌱 I’m currently learning kubernetes
