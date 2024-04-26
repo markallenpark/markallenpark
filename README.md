@@ -1,8 +1,22 @@
+### About
+
 - 👋 Hi, I’m @markallenpark
-- 👀 I’m interested in computer engineering
+- 👀 I’m interested in computer science and engineering
 - 🌱 I’m currently learning kubernetes
 
-My Public GPG Key
+### Skills
+
+This is just a small sample of the things that I have used and am a little bit decent at.
+
+| | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Linux | Python | Active Directory | Windows | PHP | FreeIPA |
+| Apache | IIS | NGINX | XCP-NG | Proxmox | QEMU/KVM |
+| Hyper-V | VMWare | Fortinet | OpenSRS | PowerDNS | Bind 9 |
+| Dovecot | Postfix | bash | zsh | tcsh | IRC |
+| TCP/IP | FreeBSD | | | | |
+
+### My Public GPG Key
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
